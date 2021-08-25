@@ -3,6 +3,3 @@
 fun printHello() {
     println("Hello, Kotlin!")
 }
-fun main(){
-    ProblemB().main();
-}
